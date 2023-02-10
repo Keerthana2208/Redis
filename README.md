@@ -6,7 +6,7 @@ This tutorial provides complete steps to design a database schema of online shop
 USER TABLE
 
 
-we will design the User Table to store user information. The same table can be used to relate the product creators(from the admin panel) and orders placed on the website. Users can track their own orders and track the status. Below mentioned is the description of all the columns of the User Table.
+we will design the User Table to store user information. The same table can be used to relate the product creators(from the admin panel) and orders placed on the website. Users can track their own orders and track the status.
 
 
 PRODUCT TABLE
