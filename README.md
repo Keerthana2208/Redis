@@ -1,1 +1,1 @@
-# Redis
+This tutorial provides complete steps to design a database schema of online shops and shopping carts to manage the users, products, reviews, carts, orders, and payments. It can be further used to develop an online shop and shopping cart based websites or applications.
